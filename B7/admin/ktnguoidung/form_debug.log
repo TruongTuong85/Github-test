@@ -1,0 +1,1 @@
+error_log("Debug: Email = $email, Số điện thoại = $dienthoai, Họ tên = $hoten", 3, "form_debug.log");
